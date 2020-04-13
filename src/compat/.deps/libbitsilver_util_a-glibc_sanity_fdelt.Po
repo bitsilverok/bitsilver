@@ -1,0 +1,4 @@
+compat/libbitsilver_util_a-glibc_sanity_fdelt.o: \
+ compat/glibc_sanity_fdelt.cpp config/bitsilver-config.h
+
+config/bitsilver-config.h:

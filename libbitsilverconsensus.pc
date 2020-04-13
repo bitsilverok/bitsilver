@@ -1,0 +1,10 @@
+prefix=/root/work/bitsilver/depends/x86_64-w64-mingw32
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: BitSilver Core consensus library
+Description: Library for the BitSilver consensus protocol.
+Version: 0.19.99
+Libs: -L${libdir} -lbitsilverconsensus
+Cflags: -I${includedir}

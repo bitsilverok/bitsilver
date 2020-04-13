@@ -1,0 +1,1 @@
+qt/qt_libbitsilverqt_a-qrc_bitsilver.o: qt/qrc_bitsilver.cpp

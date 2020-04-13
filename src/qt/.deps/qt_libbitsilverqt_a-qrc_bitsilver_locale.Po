@@ -1,0 +1,2 @@
+qt/qt_libbitsilverqt_a-qrc_bitsilver_locale.o: \
+ qt/qrc_bitsilver_locale.cpp
